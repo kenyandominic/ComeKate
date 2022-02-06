@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137632629671",
+    "project_id": "com-kate",
+    "storage_bucket": "com-kate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137632629671:android:5b093a66e539bb94f96c82",
+        "android_client_info": {
+          "package_name": "com.kim.comkate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137632629671-6pkqlv6k70291e6e7in0ski188dk712t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQZIY2YFn88V3YZSheHVCkFQiA90_1lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137632629671-6pkqlv6k70291e6e7in0ski188dk712t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
